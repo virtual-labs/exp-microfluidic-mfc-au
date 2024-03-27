@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. The main of advantage of a microfluidic microbial fuel cells (MMFCs) is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "High cost of production",
+        "b": "Limited scalability",
+        "c": "Rapid start-up time",
+        "d": "Short operational lifespan"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    
+    {
+      "question": "2. Which is the Proton Exchange membrane (PEM) used in the microfluidic microbial fuel cell simulator ?",
+      "answers": {
+        "a": "Nafion",
+        "b": "Nutrient agar with Bacillus subtilis",
+        "c": "Polyvinyl Chloride (PVC)",
+        "d": "Graphite"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "3. The parameter that affects the performance of a microfluidic microbial fuel cell (MMFC) is:",
+      "answers": {
+        "a": "Atmospheric pressure",
+        "b": "Humidity levels",
+        "c": "pH of the electrolyte",
+        "d": "Magnetic field strength"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "4. The material commonly used to fabricate microfluidic channels in MMFCs:",
+      "answers": {
+        "a": "Glass",
+        "b": "Copper",
+        "c": "Silicon",
+        "d": "Plastic"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
     }
-  ]
+    
+    
+    ]
 }
