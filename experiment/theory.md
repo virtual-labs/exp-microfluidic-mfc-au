@@ -9,7 +9,7 @@ Blending microfluidic technology with the microbial fuel cell has opened new pos
 ### Design of Microfluidic Microbial Fuel Cell (MMFC)
 The design and construction of Microfluidic Microbial Fuel cells focus on maximising power generation efficiency by optimising fluid dynamics, electrode configuration, and operational parameters within a microfluidic environment. MMFCs with proton exchange membranes (PEMs) are designed to facilitate efficient electron transfer while preventing the mixing of fuel and oxidant streams. The design typically involves:
 
-#### *Microchannel Architecture:*####
+#### *Microchannel Architecture:*
 MMFCs feature intricate microchannel networks that control fuel and oxidant flow. These channels are designed to optimise mass transport to the electrodes while minimising the crossover of reactants, enhancing efficiency.
 
 #### *Integration of Proton Exchange Membrane:* 
