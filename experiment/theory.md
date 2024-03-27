@@ -23,7 +23,8 @@ Some MMFC designs incorporate features for precise control of fluid flow, such a
 
 By integrating these elements, MMFCs with PEMs offer a compact and efficient platform for generating electricity from microbial activity while maintaining separation between the reactants, thereby enhancing performance and longevity.
 
-
+&nbsp;
+<img src="images/T1.png" title="" />
 
 *Adapted from: Vigolo, D., Al-Housseiny, T. T., Shen, Y., Akinlawon, F. O., Al-Housseiny, S. T., Hobson, R. K., & Stone, H. A. (2014). Flow dependent performance of microfluidic microbial fuel cells. Physical Chemistry Chemical Physics, 16(24), 12535-12543.*
 
