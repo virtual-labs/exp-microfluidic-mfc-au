@@ -4,7 +4,7 @@
 <b>Discipline | <b>Biotechnology and Biomedical Engineering
 :--|:--|
 <b> Lab | <b> Biosensor Lab
-<b> Experiment|     <b> Design and construction of a Microbial Fuel Cell
+<b> Experiment|     <b> Microfluidic MFC
 
 ### About the Experiment 
 
@@ -23,7 +23,8 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 1 | Dr. Ajith Madhavan | Faculty | Amrita School of Biotechnology | Amrita Vishwa Vidyapeetham | ajithm@am.amrita.edu
 2 | Dr. Asha Vijayan | Faculty | Amrita School of Biotechnology | Amrita Vishwa Vidyapeetham | ashavijayan@am.amrita.edu
 3 | Bhavya O | Software Engineer | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | bhavyao@am.amrita.edu 
-4 | Rakhi Radhamani | Research Associate | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | rakhir@am.amrita.edu
-5 | Nijin Nizar | Research Associate | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | nijinn@am.amrita.edu
-6 | Dhanush Kumar | Development Engineer | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | dhanushkumar@am.amrita.edu
+4 | Sreelekshmi S | Research Associate | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | sreelekshmis@am.amrita.edu
+5 | Rakhi Radhamani | Research Associate | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | rakhir@am.amrita.edu
+6 | Nijin Nizar | Research Associate | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | nijinn@am.amrita.edu
+7 | Dhanush Kumar | Development Engineer | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | dhanushkumar@am.amrita.edu
 
